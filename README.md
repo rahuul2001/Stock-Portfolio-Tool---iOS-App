@@ -1,4 +1,4 @@
-Video for app functioning is present in repository. Due to USC academic restrictions, can't share the code in public, please contact at tangsali@usc.edu for more details.
+Video for app functioning is present in repository. Due to USC academic restrictions, can't share the code in public, please contact at tangsali@usc.edu for more details regarding project code.
 
 1. Developed a native iOS application using SwiftUI, integrating real-time financial data from Finnhub APIs and MongoDB for managing favorites, portfolio, and cash balance interactions.
 2. Implemented essential trading functionalities with virtual money management, allowing users to simulate stock trading, maintain watchlists, and track portfolio performance in real-time.
